@@ -217,3 +217,23 @@ h2 {
 #botao-acessibilidade:hover {
     background-color: #021831 !important; /* azul escuro no hover */
     color: #ffffff !important
+
+    /* Botões específicos: início, galeria, contato */
+.botao-inicio,
+.nav-link[href="#galeria"],
+.nav-link[href="#contato"] {
+    background-color: #83f814 !important;
+    color: #000000 !important;
+    border: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover para todos os botões */
+.btn.btn-primary:hover,
+#botao-acessibilidade:hover,
+.botao-inicio:hover,
+.nav-link[href="#galeria"]:hover,
+.nav-link[href="#contato"]:hover {
+    background-color: #021831 !important;
+    color: #ffffff !important;
+}
