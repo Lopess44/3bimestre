@@ -198,3 +198,18 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+/* Botões com classe btn-primary personalizados */
+.btn.btn-primary {
+    background-color: #84f918 !important;
+    color: #000000 !important;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+/* Efeito ao passar o mouse */
+.btn.btn-primary:hover {
+    background-color: #5bbf10 !important;
+    color: #ffffff !important;
+}
+
