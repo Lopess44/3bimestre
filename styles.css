@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#billie eilish .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #84f918;
     border: none;
     font-weight: bold;
 }
