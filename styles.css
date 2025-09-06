@@ -201,21 +201,19 @@ h2 {
 
 /* Estilo padrão para todos os botões com btn-primary */
 .btn.btn-primary {
-    background-color: #021831 !important; /* cor padrão */
-    color: #ffffff !important;
+    background-color: #83f814 !important; /* verde padrão */
+    color: #000000 !important;
     border: none;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 /* Estilo específico para o botão de acessibilidade */
 #botao-acessibilidade {
-    border: 2px solid #83f814 !important; /* borda verde */
+    border: 2px solid #021831 !important; /* borda azul escuro */
 }
 
 /* Hover para todos os botões */
 .btn.btn-primary:hover,
 #botao-acessibilidade:hover {
-    background-color: #83f814 !important; /* cor ao passar o mouse */
-    color: #021831 !important;
-}
-
+    background-color: #021831 !important; /* azul escuro no hover */
+    color: #ffffff !important
