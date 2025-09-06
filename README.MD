@@ -1,4 +1,4 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre a cantora Billie Eilish
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
