@@ -104,13 +104,13 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #dafcc0;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
-    background-size: 180px 180px;
+    background: url('img/cara.png') bottom right no-repeat;
+    background-size: 150px 150px;
 }
 
 #contato {
