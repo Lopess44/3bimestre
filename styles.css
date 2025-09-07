@@ -44,9 +44,9 @@ section {
 /* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 24rem;
+    right: 17rem;
     top: 25rem;
-    width: 15rem;
+    width: 27rem;
     height: 30rem;
 }
 
@@ -179,7 +179,7 @@ h2 {
 }
 
 .alto-contraste .nav-link{
-    color: #021831;
+    color: #84f918;
 }
 
 .alto-contraste .botao-inicio,
