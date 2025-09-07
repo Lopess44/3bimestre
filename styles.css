@@ -75,7 +75,7 @@ section {
 }
 
 
-#billie eilish {
+#billieilish {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -86,7 +86,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#billie eilish .container {
+#billieilish .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -189,7 +189,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #billie eilish {
+.alto-contraste #billieilish {
     background: none;
 }
 
