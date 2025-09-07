@@ -217,20 +217,3 @@ h2 {
 #botao-acessibilidade:hover {
     background-color: #021831 !important; /* azul escuro no hover */
     color: #ffffff !important
-
-/* Estilo padrão para os links de navegação */
-.nav-link {
-    background-color: #83f814 !important;
-    color: #000000 !important;
-    font-weight: bold;
-    padding: 0.5em 1em;
-    border-radius: 8px;
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-/* Hover para os links de navegação */
-.nav-link:hover {
-    background-color: #021831 !important;
-    color: #ffffff !important;
-}
-
