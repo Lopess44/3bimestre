@@ -111,6 +111,7 @@ h2 {
 .fundo-galeria {
     background: url('img/cara.png') bottom right no-repeat;
     background-size: 150px 150px;
+    background-position: right 20px bottom 30px; /* move 30px acima do fundo */
 }
 
 #contato {
