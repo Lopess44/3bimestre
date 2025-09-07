@@ -110,8 +110,8 @@ h2 {
 
 .fundo-galeria {
     background: url('img/cara.png') bottom right no-repeat;
-    background-size: 150px 150px;
-    background-position: right 50px bottom 40px; /* move 30px acima do fundo */
+    background-size: 170px 170px;
+    background-position: right 110px bottom 150px; /* move 30px acima do fundo */
 }
 
 #contato {
@@ -219,15 +219,3 @@ h2 {
 #botao-acessibilidade:hover {
     background-color: #021831 !important; /* azul escuro no hover */
     color: #ffffff !important
-
-     /*Borda das fotos da Galeria*/
-     
-.borda-verde {
-    border: 50px;
-     color: #84f918
-}
-
-.borda-azul {
-    border: 10px;
-color: dark-blue
-}
