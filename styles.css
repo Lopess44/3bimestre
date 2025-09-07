@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #84f918;
     font-weight: 600;
 }
 
@@ -179,7 +179,7 @@ h2 {
 }
 
 .alto-contraste .nav-link{
-    color: var(--alto-contraste-link);
+    color: #021831;
 }
 
 .alto-contraste .botao-inicio,
