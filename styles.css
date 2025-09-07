@@ -240,3 +240,14 @@ h2 {
     background-color: #021831;
     color: #ffffff;
 }
+
+/* === Estilos personalizados para bordas da galeria === */
+.borda-verde {
+    border: 4px solid #84f918;
+    border-radius: 20px;
+}
+
+.borda-azul {
+    border: 4px solid #1e90ff;
+    border-radius: 20px;
+}
