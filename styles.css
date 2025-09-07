@@ -111,7 +111,7 @@ h2 {
 .fundo-galeria {
     background: url('img/cara.png') bottom right no-repeat;
     background-size: 150px 150px;
-    background-position: right 20px bottom 30px; /* move 30px acima do fundo */
+    background-position: right 50px bottom 40px; /* move 30px acima do fundo */
 }
 
 #contato {
@@ -241,11 +241,6 @@ h2 {
     color: #ffffff;
 }
 
-/* === Estilos personalizados para bordas da galeria === */
-.borda-verde {
-    border: 4px solid #84f918;
-    border-radius: 20px;
-}
 
 .borda-azul {
     border: 4px solid #1e90ff;
