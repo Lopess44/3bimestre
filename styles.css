@@ -220,29 +220,14 @@ h2 {
     background-color: #021831 !important; /* azul escuro no hover */
     color: #ffffff !important
 
-/* Estilo padrão para os links do menu */
-.nav-link[href="#inicio"],
-.nav-link[href="#galeria"],
-.nav-link[href="#contato"] {
-    background-color: #84f918;
-    color: #000000;
-    padding: 0.5em 1em;
-    border-radius: 30px;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.3s ease, color 0.3s ease;
+     /*Borda das fotos da Galeria*/
+     
+.borda-verde {
+    border: 50px;
+     color: #84f918
 }
-
-/* Estilo ao passar o mouse */
-.nav-link[href="#inicio"]:hover,
-.nav-link[href="#galeria"]:hover,
-.nav-link[href="#contato"]:hover {
-    background-color: #021831;
-    color: #ffffff;
-}
-
 
 .borda-azul {
-    border: 4px solid #1e90ff;
-    border-radius: 20px;
+    border: 10px;
+color: dark-blue
 }
