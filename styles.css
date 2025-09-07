@@ -202,7 +202,7 @@ h2 {
 /* Estilo padrão para todos os botões com btn-primary */
 .btn.btn-primary {
     background-color: #83f814 !important; /* verde padrão */
-    color: #000000 !important;
+    color: #ffffff !important;
     border: none;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -218,22 +218,23 @@ h2 {
     background-color: #021831 !important; /* azul escuro no hover */
     color: #ffffff !important
 
-    /* Botões das seções específicas */
-.botao-inicio,
-#galeria .btn,
-#contato .btn {
+/* Estilo padrão para os links do menu */
+.nav-link[href="#inicio"],
+.nav-link[href="#galeria"],
+.nav-link[href="#contato"] {
     background-color: #84f918;
     color: #000000;
-    border: none;
+    padding: 0.5em 1em;
+    border-radius: 30px;
     font-weight: bold;
+    text-decoration: none;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Hover personalizado */
-.botao-inicio:hover,
-#galeria .btn:hover,
-#contato .btn:hover {
-    background-color: #07234a;
+/* Estilo ao passar o mouse */
+.nav-link[href="#inicio"]:hover,
+.nav-link[href="#galeria"]:hover,
+.nav-link[href="#contato"]:hover {
+    background-color: #021831;
     color: #ffffff;
 }
-
